@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning CloudNative, Golang language.
-- 💬 Ask me about software engineering，Python.
+- 💬 Ask me about Software Engineering，Python.
 
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shihai1991&count_private=true&show_icons=true" alt="Who is shihai1991" width="400px">
